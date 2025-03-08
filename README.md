@@ -402,11 +402,6 @@ evaluate_roc(probs, y_val)
     AUC: 0.8269
     Accuracy: 72.65%
     
-
-
-![png](output_37_1.png)
-
-
 # D - Fine-tuning BERT
 
 ## 1. Install the Hugging Face Library
@@ -926,11 +921,6 @@ evaluate_roc(probs, y_val)
     AUC: 0.9006
     Accuracy: 82.65%
     
-
-
-![png](output_69_1.png)
-
-
 The Bert Classifer achieves 0.90 AUC score and 82.65% accuracy rate on the validation set. This result is 10 points better than the baseline method. 
 
 ### 3.5. Train Our Model on the Entire Training Data
